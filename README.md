@@ -1,7 +1,7 @@
 # 💫 Hey, I am Melisa!
 
 
-⚡I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning web development, c and c++.<br><br><br>[Email](melisakaratas172@gmail.com)
+⚡I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm learning exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning web development, c and c++.<br><br><br>[Email](melisakaratas172@gmail.com)
 
 
 ## 🌐 Socials:
