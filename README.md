@@ -1,11 +1,10 @@
 # 💫 Hey, I am Melisa!
 
 
-⚡I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm learning exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning web development, c and c++.<br><br><br>[Email](melisakaratas172@gmail.com)
-
+⚡I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm learning exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning web development, c and c++.<br><br>
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/melisa-karatas) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23416552) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
