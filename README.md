@@ -2,9 +2,12 @@
 
 
 🔭 I am a [nursing](https://hemsirelik.deu.edu.tr/en/) student in Dokuz Eylul University. <br> 🌱 I am currently learning data science and web development. <br> ⚡ In the following months I will be learning C languages.<br><br>
+[Email
 
 ## 🌐 Socials:
+<p align="left">
 <a href="https://stackoverflow.com/users/23416552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23416552" height="30" width="40" /></a>
+<a href="https://kaggle.com/melisakarata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melisakarata" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/melisakaratas172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="melisakaratas172" height="30" width="40" /></a>
 </p>
 
