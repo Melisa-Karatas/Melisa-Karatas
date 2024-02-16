@@ -1,7 +1,7 @@
 # 💫 Hey, I am Melisa!
 
 
-⚡I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm learning exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning web development, c and c++.<br><br>
+⚡ I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning more about web development, c and c++.<br><br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23416552) 
