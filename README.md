@@ -1,7 +1,7 @@
 # 💫 Hey, I am Melisa!
 
 
-⚡ I am studying [nursing](https://hemsirelik.deu.edu.tr/en/) in Dokuz Eylul University. <br> 👩🏻‍💻 I'm exceedingly intrested in coding and data science. <br> 💭 In following months I will be learning more about web development, c and c++.<br><br>
+🔭 I am a [nursing](https://hemsirelik.deu.edu.tr/en/) student in Dokuz Eylul University. <br> 🌱 I am currently learning data science and web development. <br> ⚡ In the following months I will be learning C languages.<br><br>
 
 ## 🌐 Socials:
 <a href="https://stackoverflow.com/users/23416552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23416552" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Melisa-Karatas&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melisa-Karatas&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melisa-karatas" alt="melisa-karatas" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
