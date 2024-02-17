@@ -2,6 +2,7 @@
 ![buddha_edited](https://github.com/Melisa-Karatas/Melisa-Karatas/assets/145010761/ca80749e-e6b5-47e5-996a-7625b8d25428)
 
 🔭 I am a [nursing](https://hemsirelik.deu.edu.tr/en/) student in Dokuz Eylul University. <br> 🌱 I am currently learning data science and web development. <br> ⚡ In the following months I will be learning C languages.<br><br>
+[![](https://visitcount.itsvg.in/api?id=Melisa-Karatas&icon=9&color=6)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -22,7 +23,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
